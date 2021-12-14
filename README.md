@@ -3,12 +3,10 @@ Basic Webpack Development and Build kit
 
 ```
 $ node -v
-v14.17.4
+v16.13.1
 ```
 
 ```
 $ npm -v
-7.20.5
+8.1.2
 ```
-
-testing
