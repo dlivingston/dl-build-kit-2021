@@ -10,3 +10,5 @@ v16.13.1
 $ npm -v
 8.1.2
 ```
+
+gpg sign test
