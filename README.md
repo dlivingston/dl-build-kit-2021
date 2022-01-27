@@ -11,4 +11,4 @@ $ npm -v
 8.1.2
 ```
 
-gpg test 2
+gpg test 2.1
